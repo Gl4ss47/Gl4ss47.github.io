@@ -1,10 +1,7 @@
 $primary: #9356DC;
 $secondary: #FF79DA;
 $terciary: #99E2D0;
-@font-face {
-    font-family: 'Roboto';
-    src: url('Font/roboto/Roboto-Regular.ttf');
-}
+@import url(https://fonts.googleapis.com/css?family=Roboto);
 @font-face {
     font-family: 'Shrikhand';
     src: url('Font/Shrikhand/Shrikhand-Regular.ttf');
