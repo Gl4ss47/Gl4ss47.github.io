@@ -128,7 +128,7 @@ header{
         position: relative;
         transition: background-color 1.5s;
         &:hover{
-            background-color: rgba(variable.$primary, $alpha: 0.15);
+            background-color: rgba(variable.$primary, 0.15);
             .fa-solid{
                 color: variable.$primary;
             }
