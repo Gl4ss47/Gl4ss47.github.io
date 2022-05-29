@@ -528,7 +528,7 @@ img {
     border-radius: 50px;
     padding: 35px;
   }
-  .restlist h1 {
+  .restlist h2 {
     margin-left: 17px;
     font-size: 30px;
   }
@@ -722,7 +722,7 @@ img {
   .nav .fa-solid {
     padding-left: 20px;
   }
-  .nav h2 {
+  .nav h3 {
     padding-left: 10px;
     text-align: center;
   }
@@ -740,7 +740,7 @@ img {
     margin-bottom: 25px;
     border-radius: 50px;
   }
-  .restlist h1 {
+  .restlist h2 {
     margin-left: 17px;
     font-size: 30px;
   }
