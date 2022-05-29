@@ -578,6 +578,10 @@ img {
     margin-right: 20px;
   }
 
+  .menu__card span {
+    margin-right: 30px;
+  }
+
   .order {
     width: 40%;
     margin-top: 50px;
