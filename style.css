@@ -705,7 +705,6 @@ p {
 }
 
 h2 {
-    font-size: 22px;
     line-height: 1.4em;
 }
 
@@ -776,7 +775,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #ffffff!important;
 }
 
 .btn-atomic-tangerine {
@@ -905,6 +904,9 @@ h4 {
     #disqus_thread {
         padding-left: 10px!important;
         padding-right: 10px!important;
+    }
+    h2 {
+        font-size: 22px
     }
     .b-parallax {
         background-attachment: scroll;
